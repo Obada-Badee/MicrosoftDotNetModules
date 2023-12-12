@@ -1,0 +1,14 @@
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.exe
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.deps.json
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.runtimeconfig.json
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.dll
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.pdb
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfoInputs.cache
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfo.cs
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.dll
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\obj\Debug\net8.0\refint\DotNetDebugging.dll
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.pdb
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.genruntimeconfig.cache
+E:\ALL PROJECTS\DOTNET\DotNetDebugging\obj\Debug\net8.0\ref\DotNetDebugging.dll
